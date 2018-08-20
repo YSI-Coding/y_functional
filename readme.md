@@ -1,27 +1,27 @@
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_testing-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Core/y_testing)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_utils-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Core/y_utils)
 
 ## Installation
 
 To install just this one library:
 
 ```bash
-sampctl package install YSI-Core/y_testing
+sampctl package install YSI-Core/y_utils
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <YSI-Core/y_testing>
+#include <YSI-Core/y_utils>
 ```
 
 ## Documentation
 
-* [Quick Start](YSI-Core/y_testing/quick-start.md) - One very simple example of getting started with this library.
-* [Features](YSI-Core/y_testing/features.md) - More features and examples.
-* [FAQs](YSI-Core/y_testing/faqs.md) - Frequently Asked Questions, including errors and solutions.
-* [API](YSI-Core/y_testing/api.md) - Full list of all functions and their meaning.
-* [Internal](YSI-Core/y_testing/internal.md) - Internal developer documentation for the system.
+* [Quick Start](YSI-Core/y_utils/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Core/y_utils/features.md) - More features and examples.
+* [FAQs](YSI-Core/y_utils/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Core/y_utils/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Core/y_utils/internal.md) - Internal developer documentation for the system.
 
 ## Testing
 
