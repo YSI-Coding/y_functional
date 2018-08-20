@@ -1,27 +1,27 @@
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_timers-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Coding/y_timers)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_unique-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Coding/y_unique)
 
 ## Installation
 
 To install just this one library:
 
 ```bash
-sampctl package install YSI-Coding/y_timers
+sampctl package install YSI-Coding/y_unique
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <YSI-Coding/y_timers>
+#include <YSI-Coding/y_unique>
 ```
 
 ## Documentation
 
-* [Quick Start](YSI-Coding/y_timers/quick-start.md) - One very simple example of getting started with this library.
-* [Features](YSI-Coding/y_timers/features.md) - More features and examples.
-* [FAQs](YSI-Coding/y_timers/faqs.md) - Frequently Asked Questions, including errors and solutions.
-* [API](YSI-Coding/y_timers/api.md) - Full list of all functions and their meaning.
-* [Internal](YSI-Coding/y_timers/internal.md) - Internal developer documentation for the system.
+* [Quick Start](YSI-Coding/y_unique/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Coding/y_unique/features.md) - More features and examples.
+* [FAQs](YSI-Coding/y_unique/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Coding/y_unique/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Coding/y_unique/internal.md) - Internal developer documentation for the system.
 
 ## Testing
 
