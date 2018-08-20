@@ -1,27 +1,27 @@
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_utils-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Core/y_utils)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_bintree-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Data/y_bintree)
 
 ## Installation
 
 To install just this one library:
 
 ```bash
-sampctl package install YSI-Core/y_utils
+sampctl package install YSI-Data/y_bintree
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <YSI-Core/y_utils>
+#include <YSI-Data/y_bintree>
 ```
 
 ## Documentation
 
-* [Quick Start](YSI-Core/y_utils/quick-start.md) - One very simple example of getting started with this library.
-* [Features](YSI-Core/y_utils/features.md) - More features and examples.
-* [FAQs](YSI-Core/y_utils/faqs.md) - Frequently Asked Questions, including errors and solutions.
-* [API](YSI-Core/y_utils/api.md) - Full list of all functions and their meaning.
-* [Internal](YSI-Core/y_utils/internal.md) - Internal developer documentation for the system.
+* [Quick Start](YSI-Data/y_bintree/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Data/y_bintree/features.md) - More features and examples.
+* [FAQs](YSI-Data/y_bintree/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Data/y_bintree/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Data/y_bintree/internal.md) - Internal developer documentation for the system.
 
 ## Testing
 
