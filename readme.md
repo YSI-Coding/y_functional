@@ -1,27 +1,27 @@
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_remote-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Coding/y_remote)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_stringhash-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Coding/y_stringhash)
 
 ## Installation
 
 To install just this one library:
 
 ```bash
-sampctl package install YSI-Coding/y_remote
+sampctl package install YSI-Coding/y_stringhash
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <YSI-Coding/y_remote>
+#include <YSI-Coding/y_stringhash>
 ```
 
 ## Documentation
 
-* [Quick Start](YSI-Coding/y_remote/quick-start.md) - One very simple example of getting started with this library.
-* [Features](YSI-Coding/y_remote/features.md) - More features and examples.
-* [FAQs](YSI-Coding/y_remote/faqs.md) - Frequently Asked Questions, including errors and solutions.
-* [API](YSI-Coding/y_remote/api.md) - Full list of all functions and their meaning.
-* [Internal](YSI-Coding/y_remote/internal.md) - Internal developer documentation for the system.
+* [Quick Start](YSI-Coding/y_stringhash/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Coding/y_stringhash/features.md) - More features and examples.
+* [FAQs](YSI-Coding/y_stringhash/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Coding/y_stringhash/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Coding/y_stringhash/internal.md) - Internal developer documentation for the system.
 
 ## Testing
 
