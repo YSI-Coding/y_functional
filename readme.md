@@ -1,31 +1,27 @@
-# y_functional
 
-Provides support for "lamda" functions - small functions entirely contained within an expression such as a function call.  Also provides functions for operating on arrays and data at a high level.
-
-
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_functional-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Coding/y_functional)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_hooks-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Coding/y_hooks)
 
 ## Installation
 
 To install just this one library:
 
 ```bash
-sampctl package install YSI-Coding/y_functional
+sampctl package install YSI-Coding/y_hooks
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <YSI-Coding/y_functional>
+#include <YSI-Coding/y_hooks>
 ```
 
 ## Documentation
 
-* [Quick Start](YSI-Coding/y_functional/quick-start.md) - One very simple example of getting started with this library.
-* [Features](YSI-Coding/y_functional/features.md) - More features and examples.
-* [FAQs](YSI-Coding/y_functional/faqs.md) - Frequently Asked Questions, including errors and solutions.
-* [API](YSI-Coding/y_functional/api.md) - Full list of all functions and their meaning.
-* [Internal](YSI-Coding/y_functional/internal.md) - Internal developer documentation for the system.
+* [Quick Start](YSI-Coding/y_hooks/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Coding/y_hooks/features.md) - More features and examples.
+* [FAQs](YSI-Coding/y_hooks/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Coding/y_hooks/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Coding/y_hooks/internal.md) - Internal developer documentation for the system.
 
 ## Testing
 
