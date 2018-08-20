@@ -1,27 +1,27 @@
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_va-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Coding/y_va)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_als-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Core/y_als)
 
 ## Installation
 
 To install just this one library:
 
 ```bash
-sampctl package install YSI-Coding/y_va
+sampctl package install YSI-Core/y_als
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <YSI-Coding/y_va>
+#include <YSI-Core/y_als>
 ```
 
 ## Documentation
 
-* [Quick Start](YSI-Coding/y_va/quick-start.md) - One very simple example of getting started with this library.
-* [Features](YSI-Coding/y_va/features.md) - More features and examples.
-* [FAQs](YSI-Coding/y_va/faqs.md) - Frequently Asked Questions, including errors and solutions.
-* [API](YSI-Coding/y_va/api.md) - Full list of all functions and their meaning.
-* [Internal](YSI-Coding/y_va/internal.md) - Internal developer documentation for the system.
+* [Quick Start](YSI-Core/y_als/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Core/y_als/features.md) - More features and examples.
+* [FAQs](YSI-Core/y_als/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Core/y_als/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Core/y_als/internal.md) - Internal developer documentation for the system.
 
 ## Testing
 
