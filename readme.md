@@ -1,27 +1,27 @@
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_malloc-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Coding/y_malloc)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_remote-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Coding/y_remote)
 
 ## Installation
 
 To install just this one library:
 
 ```bash
-sampctl package install YSI-Coding/y_malloc
+sampctl package install YSI-Coding/y_remote
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <YSI-Coding/y_malloc>
+#include <YSI-Coding/y_remote>
 ```
 
 ## Documentation
 
-* [Quick Start](YSI-Coding/y_malloc/quick-start.md) - One very simple example of getting started with this library.
-* [Features](YSI-Coding/y_malloc/features.md) - More features and examples.
-* [FAQs](YSI-Coding/y_malloc/faqs.md) - Frequently Asked Questions, including errors and solutions.
-* [API](YSI-Coding/y_malloc/api.md) - Full list of all functions and their meaning.
-* [Internal](YSI-Coding/y_malloc/internal.md) - Internal developer documentation for the system.
+* [Quick Start](YSI-Coding/y_remote/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Coding/y_remote/features.md) - More features and examples.
+* [FAQs](YSI-Coding/y_remote/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Coding/y_remote/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Coding/y_remote/internal.md) - Internal developer documentation for the system.
 
 ## Testing
 
