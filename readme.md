@@ -1,27 +1,27 @@
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_master-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Core/y_master)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_profiling-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Core/y_profiling)
 
 ## Installation
 
 To install just this one library:
 
 ```bash
-sampctl package install YSI-Core/y_master
+sampctl package install YSI-Core/y_profiling
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <YSI-Core/y_master>
+#include <YSI-Core/y_profiling>
 ```
 
 ## Documentation
 
-* [Quick Start](YSI-Core/y_master/quick-start.md) - One very simple example of getting started with this library.
-* [Features](YSI-Core/y_master/features.md) - More features and examples.
-* [FAQs](YSI-Core/y_master/faqs.md) - Frequently Asked Questions, including errors and solutions.
-* [API](YSI-Core/y_master/api.md) - Full list of all functions and their meaning.
-* [Internal](YSI-Core/y_master/internal.md) - Internal developer documentation for the system.
+* [Quick Start](YSI-Core/y_profiling/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Core/y_profiling/features.md) - More features and examples.
+* [FAQs](YSI-Core/y_profiling/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Core/y_profiling/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Core/y_profiling/internal.md) - Internal developer documentation for the system.
 
 ## Testing
 
