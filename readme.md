@@ -1,27 +1,27 @@
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_inline-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Coding/y_inline)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_malloc-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Coding/y_malloc)
 
 ## Installation
 
 To install just this one library:
 
 ```bash
-sampctl package install YSI-Coding/y_inline
+sampctl package install YSI-Coding/y_malloc
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <YSI-Coding/y_inline>
+#include <YSI-Coding/y_malloc>
 ```
 
 ## Documentation
 
-* [Quick Start](YSI-Coding/y_inline/quick-start.md) - One very simple example of getting started with this library.
-* [Features](YSI-Coding/y_inline/features.md) - More features and examples.
-* [FAQs](YSI-Coding/y_inline/faqs.md) - Frequently Asked Questions, including errors and solutions.
-* [API](YSI-Coding/y_inline/api.md) - Full list of all functions and their meaning.
-* [Internal](YSI-Coding/y_inline/internal.md) - Internal developer documentation for the system.
+* [Quick Start](YSI-Coding/y_malloc/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Coding/y_malloc/features.md) - More features and examples.
+* [FAQs](YSI-Coding/y_malloc/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Coding/y_malloc/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Coding/y_malloc/internal.md) - Internal developer documentation for the system.
 
 ## Testing
 
