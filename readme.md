@@ -1,27 +1,27 @@
 
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_cell-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Core/y_cell)
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_debug-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Core/y_debug)
 
 ## Installation
 
 To install just this one library:
 
 ```bash
-sampctl package install YSI-Core/y_cell
+sampctl package install YSI-Core/y_debug
 ```
 
 Include in your code and begin using the library:
 
 ```pawn
-#include <YSI-Core/y_cell>
+#include <YSI-Core/y_debug>
 ```
 
 ## Documentation
 
-* [Quick Start](YSI-Core/y_cell/quick-start.md) - One very simple example of getting started with this library.
-* [Features](YSI-Core/y_cell/features.md) - More features and examples.
-* [FAQs](YSI-Core/y_cell/faqs.md) - Frequently Asked Questions, including errors and solutions.
-* [API](YSI-Core/y_cell/api.md) - Full list of all functions and their meaning.
-* [Internal](YSI-Core/y_cell/internal.md) - Internal developer documentation for the system.
+* [Quick Start](YSI-Core/y_debug/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Core/y_debug/features.md) - More features and examples.
+* [FAQs](YSI-Core/y_debug/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Core/y_debug/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Core/y_debug/internal.md) - Internal developer documentation for the system.
 
 ## Testing
 
