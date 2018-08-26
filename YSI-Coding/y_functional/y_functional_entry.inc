@@ -76,6 +76,7 @@ Optional plugins:
 */
 
 #include <YSI-Core\y_utils>
+#include <YSI-Internal\y_thirdpartyinclude>
 #include <YSI-Coding\y_inline>
 
 #include "y_functional_impl"
